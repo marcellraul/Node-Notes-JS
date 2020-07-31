@@ -1,0 +1,18 @@
+Haremos un login
+    crear usuarios, modificarlos, listarlos
+    iniciar sesion, token, autenticacion, cerrar sesion, close-token
+
+haremos un crud completo
+    crear nota, modificar notas, listar notas, eliminar nota,
+
+express -> servidor, framework de node
+express-handlebars -> motot de plantillas en el servidor para utilizar plantillas con las vistas
+express-sesion -> para las sesiones
+method-override -> extender la funcionalidad de los formularios
+mongoose -> modulo para conectar express con mongoDB
+passport -> para autenticarme
+passport-local ->
+bcryptjs -> encryptar la pass
+connect-flash -> enviar mensages entres vistas
+
+npm i express
